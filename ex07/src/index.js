@@ -7,9 +7,9 @@ var lion = {
     "roar": "roar-roar"
 };
 
-delete lion[propName];
+delete lion.propName;
 return lion;
 // Only change code below this line
 }
-console.log(myFunction("roar")); //Change this line
+console.log(myFunction("roar-roar")); //Change this line
 module.exports = myFunction;
