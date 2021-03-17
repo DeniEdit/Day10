@@ -12,4 +12,4 @@ return lion;
 // Only change code below this line
 }
 console.log(myFunction("roar")); //Change this line
-module.exports =  myFunction;
+module.exports = myFunction;
